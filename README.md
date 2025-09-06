@@ -34,7 +34,7 @@ Currently diving deep into **machine learning, GenAI, and web apps with Django**
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![react](https://img.shields.io/badge/-react-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![react](https://img.shields.io/badge/-react-092E20?style=flat-square&logo=react&logoColor=white)
 
 ---
 
